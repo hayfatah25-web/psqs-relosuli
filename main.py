@@ -1,1 +1,1 @@
-# bismillah we will create an amazing code
+# bismillah, InsyaAllah we will create an amazing code
