@@ -7,5 +7,5 @@ rencana konten:
 - bikin video kajian tafsir
  * tafsir munir
 - hadist arbain nawawi
-- short video konten edukatif
+- short video konten edukatif durasi dibawah 5 menit
 
